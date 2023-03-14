@@ -1,4 +1,4 @@
-# Escopo do projeto
+# Escopo do projeto 📘
 
 - E-commerce
 
@@ -14,10 +14,14 @@
 
 - Front-end hospedado no Netlify.
 
-# Time de desenvolvimento/função
+# Time de desenvolvimento/função 👨🏻‍💻
 
 - Back-end : Entony, Erick, Nickolas, Lucas
 
 - Front-end : Pablo, Victor, Lucas
 
 - Banco de dados : Erick
+
+# Contato 📫 
+
+- Entre em contato pelo email: strikergames2023@gmail.com
