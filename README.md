@@ -13,3 +13,11 @@
 - Back-end hospedado no Google Cloud.
 
 - Front-end hospedado no Netlify.
+
+# Time de desenvolvimento/função
+
+- Back-end : Entony, Erick, Nickolas, Lukinhas
+
+- Front-end : Pablo, Victor, Lukinhas
+
+- Banco de dados : Erick
