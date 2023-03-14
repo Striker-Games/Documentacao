@@ -16,8 +16,8 @@
 
 # Time de desenvolvimento/função
 
-- Back-end : Entony, Erick, Nickolas, Lukinhas
+- Back-end : Entony, Erick, Nickolas, Lucas
 
-- Front-end : Pablo, Victor, Lukinhas
+- Front-end : Pablo, Victor, Lucas
 
 - Banco de dados : Erick
