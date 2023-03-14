@@ -26,6 +26,6 @@
 
 - Entre em contato pelo email: strikergames2023@gmail.com
 
-# Trello 
+# Trello 🗃
 
 - Organização e gestão do projeto: https://trello.com/b/7cQEhvXk/projeto-pr%C3%A1tico-de-programa%C3%A7%C3%A3o-%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%92%BB
