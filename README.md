@@ -1,3 +1,6 @@
+# Sobre o projeto
+O objetivo deste projeto é acadêmico, visando colocar em prática e desafiar a nós mesmos com base nas ferramentas e conhecimentos adquiridos durante o período acadêmico. O foco principal é desenvolver um e-commerce fictício de jogos.
+
 # Escopo do projeto 📘
 
 - E-commerce
